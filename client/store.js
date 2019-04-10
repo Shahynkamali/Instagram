@@ -6,8 +6,6 @@ import comments from './data/comments';
 import posts from './data/posts';
 
 
-// create object for default data
-
 const defaultState = {
     posts,
     comments,
